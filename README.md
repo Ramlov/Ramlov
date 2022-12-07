@@ -4,6 +4,8 @@
   <img src="https://media.tenor.com/uYP_Nkq8VPsAAAAd/coding-hello-world.gif" width="500"/>
 </div>
 
+
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 <!--
 **Ramlov/Ramlov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
