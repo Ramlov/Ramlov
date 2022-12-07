@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sh1tters/count.svg" />
+  <img src="https://profile-counter.glitch.me/Ramlov/count.svg" />
 </p>
 <div id="header" align="center">
   <img src="https://media.tenor.com/uYP_Nkq8VPsAAAAd/coding-hello-world.gif" width="500"/>
