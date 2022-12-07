@@ -4,7 +4,7 @@
   <img src="https://profile-counter.glitch.me/Ramlov/count.svg" />
 </p>
 <div id="header" align="center">
-  <img src="https://media.tenor.com/uYP_Nkq8VPsAAAAd/coding-hello-world.gif" width="500"/>
+  <img src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif" width="500"/>
 </div>
 
 
