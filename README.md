@@ -14,10 +14,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramlov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-# Hi there 👋
-
-I'm [Your Name], a software developer and GitHub user. This is a record of all my commits on GitHub since I joined.
-
 | **All-time Stats** | **My programming languages** |
 | ------------------ | ---------------------------- |
 | ![All-time Stats](https://github-readme-stats.vercel.app/api?username=Ramlov&show_icons=true&theme=radical) | ![My programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramlov&layout=compact) |
