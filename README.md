@@ -7,6 +7,17 @@
   <img src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif" width="500"/>
 </div>
 
+<style>
+table {
+  border-collapse: collapse;
+}
+td, th {
+  border: none;
+  padding: 0;
+}
+</style>
+
+
 
 | **All-time Stats** | **My programming languages** |
 | ------------------ | ---------------------------- |
