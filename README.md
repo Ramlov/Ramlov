@@ -14,20 +14,17 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramlov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-<div style="display:flex;">
-  
-  <div style="flex:1;margin-right:2%;">
+<div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center;">
+  <div>
     <h2>All-time Stats</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=Ramlov&show_icons=true&theme=radical" alt="All-time Stats">
   </div>
-
-  <div style="flex:1;margin-left:2%;">
+  <div>
     <h2>My programming languages</h2>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramlov&layout=compact" alt="My programming languages">
   </div>
-
 </div>
+
 
 <!--
 **Ramlov/Ramlov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
