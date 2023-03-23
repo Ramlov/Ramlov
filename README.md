@@ -7,6 +7,11 @@
   <img src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif" width="500"/>
 </div>
 
+## All-time Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <!--
